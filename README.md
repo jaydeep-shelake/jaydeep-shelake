@@ -1,10 +1,10 @@
 ### Hi there, I'm Jaydeep Shelake  👋
-## I'm a Student @ RIT, Fullstack Developer !
-- 🔭 I’m currently working on a Node.js!
+## I'm a Student @ RIT, Fullstack Developer !💻
+- 🔭 I’m currently working on a Node.js!🏆
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to become a native app devloper aslo!
-- 🥅 2020 Goals: Contribute more to Open Source projects,and become highlevel devloper
-- ⚡ Fun fact: I'm not a CS/IT engineer,I'm a Mechanical engineer but love programming
+- 👯 I’m looking to become a native app devloper aslo!📈
+- 🥅 2020 Goals: Contribute more to Open Source projects,and become highlevel devloper📢
+- ⚡ Fun fact: I'm not a CS/IT engineer,I'm a Mechanical engineer but love programming❤️💖
 ### Connect with me:
 [<img align="left" alt="jaydeepShelake | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="jaydeepShelake | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
