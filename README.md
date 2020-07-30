@@ -24,8 +24,8 @@
 <br />
 <br />
 ---
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-<img align="left" alt="jaydeep-shelake's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jaydeep-shelake&show_icons=true&hide_border-true/>
  
 [github]:https://github.com/jaydeep-shelake
 [instagram]:https://instagram.com/jaydeep_shelake101
