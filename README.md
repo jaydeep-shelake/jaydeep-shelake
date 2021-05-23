@@ -26,7 +26,9 @@
 <br />
 <br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydeep-shelake&show_icons=true&locale=en&layout=compact" alt="jaydeep-shelake"/></p>
-
+<br/>
+<br/>
+<br/>
 <img align="left" alt="jaydeep-shelake's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jaydeep-shelake&theme=radical&show_icons=true&hide_border=true" />
 
  
