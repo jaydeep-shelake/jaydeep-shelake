@@ -1,6 +1,6 @@
 ### Hi there, I'm Jaydeep Shelake  👋
 ## I'm a Student @ RIT and  Fullstack Developer !💻
-- 🔭 I’m currently working on  Node.js!🏆
+- 🔭 I’m currently working on  NEXT.JS!🏆
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to become a native app developer aslo!📈
 - 🥅 2021 Goals: Contribute more to Open Source projects,and become highlevel developer📢
