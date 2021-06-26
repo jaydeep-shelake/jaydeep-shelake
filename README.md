@@ -6,7 +6,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects,and become highlevel developer📢
 - ⚡ Fun fact: I'm not a CS/IT engineer,I'm a Mechanical engineer but I love programming❤️💖
 ### Connect with me:
-[<img align="left" alt="jaydeepShelake | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][portfolio]
+[<img align="left" alt="jaydeepShelake | LinkedIn" width="22px" src="https://img.icons8.com/material-outlined/2x/globe--v2.png" />][portfolio]
 [<img align="left" alt="jaydeepShelake | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="jaydeepShelake | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
