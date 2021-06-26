@@ -6,8 +6,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects,and become highlevel developer📢
 - ⚡ Fun fact: I'm not a CS/IT engineer,I'm a Mechanical engineer but I love programming❤️💖
 ### Connect with me:
-[<img align="left" alt="jaydeepShelake | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="jaydeepShelake | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][portfolio]
 [<img align="left" alt="jaydeepShelake | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jaydeepShelake | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -39,5 +40,6 @@
  
 [github]:https://github.com/jaydeep-shelake
 [instagram]:https://instagram.com/jaydeep_shelake101
-[facebook]:https://facebook.com/jaydeep.shelake.100
+[portfolio]:https://jaydeep-shelake.github.io
+[linkedin]:https://www.linkedin.com/in/jaydeep-shelake-a348771b2/
 
