@@ -6,9 +6,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects,and become highlevel developer📢
 - ⚡ Fun fact: I'm not a CS/IT engineer,I'm a Mechanical engineer but I love programming❤️💖
 ### Connect with me:
-[<img align="left" alt="jaydeepShelake | LinkedIn" width="22px" src="https://img.icons8.com/color/2x/code.png" />][portfolio]
-[<img align="left" alt="jaydeepShelake | Instagram" width="22px" src="https://img.icons8.com/color/2x/instagram-new.png" />][instagram]
-[<img align="left" alt="jaydeepShelake | LinkedIn" width="22px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
+[<img align="left" alt="jaydeepShelake | LinkedIn" width="42px" src="https://img.icons8.com/color/2x/code.png" />][portfolio]
+[<img align="left" alt="jaydeepShelake | Instagram" width="42px" src="https://img.icons8.com/color/2x/instagram-new.png" />][instagram]
+[<img align="left" alt="jaydeepShelake | LinkedIn" width="42px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
 <br />
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
