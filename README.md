@@ -6,9 +6,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects,and become highlevel developer📢
 - ⚡ Fun fact: I'm not a CS/IT engineer,I'm a Mechanical engineer but I love programming❤️💖
 ### Connect with me:
-[<img align="left" alt="jaydeepShelake | LinkedIn" width="22px" src="https://img-premium.flaticon.com/png/512/2441/premium/2441840.png?token=exp=1624723289~hmac=44ced307a1196d5e39878e9a5b5c530f" />][portfolio]
-[<img align="left" alt="jaydeepShelake | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="jaydeepShelake | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jaydeepShelake | LinkedIn" width="22px" src="https://img.icons8.com/color/2x/code.png" />][portfolio]
+[<img align="left" alt="jaydeepShelake | Instagram" width="22px" src="https://img.icons8.com/color/2x/instagram-new.png" />][instagram]
+[<img align="left" alt="jaydeepShelake | LinkedIn" width="22px" src="https://img.icons8.com/color/2x/linkedin.png" />][linkedin]
 <br />
 ### Languages and Tools:
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
